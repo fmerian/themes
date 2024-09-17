@@ -3,8 +3,8 @@
   "name": "Prism Starter Kit",
   "theme": "prism",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg",
+    "dark": "/logo/logo.webp",
+    "light": "/logo/logo.webp",
     "href": "https://starter-prism.mintlify.app/"
   },
   "favicon": "/favicon.svg",
